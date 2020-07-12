@@ -7,7 +7,7 @@ module.exports = {
 	},
 	urls: [
 		// "https://www.cirquedusoleil.com",
-		"https://www.cirquedusoleil.com/cirqueconnect",
+		// "https://www.cirquedusoleil.com/cirqueconnect",
 		"https://www.cirquedusoleil.com/drawn-to-life",
 		// "https://www.cirquedusoleil.com/las-vegas",
     "https://www.blueman.com/",
